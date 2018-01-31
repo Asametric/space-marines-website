@@ -68,7 +68,8 @@ body{
 
 .li-menu{
 	list-style: none;
-	padding: 16px
+	padding: 16px;
+	overflow: none;
 }
 
 .content{
