@@ -61,13 +61,14 @@ body{
 .menu-item{
 	text-decoration: none;
 	color: white;
-	padding: 20px;
+	padding: 16px;
 	background-color: #000a12;
+	overflow: none;
 }
 
 .li-menu{
 	list-style: none;
-	padding: 20px
+	padding: 16px
 }
 
 .content{
@@ -99,9 +100,11 @@ footer{
 }
 
 .footertext{
-	width: 100%;
+	width: 90%;
 	height: 100%;
 	padding: 20px;
+	text-align: center;
+	float: center;
 }
 
 .underneath{
